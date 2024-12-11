@@ -6,6 +6,7 @@
 
 body {
   @apply font-Poppins;
+  overflow-x:hidden;
 }
 
 body.active {
@@ -74,4 +75,4 @@ h5 {
   @apply content-[''] absolute top-0 -left-[31px] size-5 bg-white border-[2px] border-gray-800 rounded-full;
 }
 
-/* SERVICES  */
+
